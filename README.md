@@ -28,6 +28,8 @@ The integrator is most commonly used in analog computers and ADC and signal-wave
 <img width="678" height="358" alt="image" src="https://github.com/user-attachments/assets/3a9d9a97-3057-49e5-8622-3d4862b8a053" />
 
 # TABULATION:
+![WhatsApp Image 2025-11-16 at 11 24 10_e5e3cc91](https://github.com/user-attachments/assets/e392a786-c8d8-4a7a-a6a5-84f861946f44)
+
 
 # THEORY:
 # DIFFEERENTIATOR:
@@ -55,21 +57,24 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 # TABULATION:
 
+![WhatsApp Image 2025-11-16 at 11 25 13_534b2b6b](https://github.com/user-attachments/assets/85ea9f55-0839-4fd1-860b-40dd9b86cc54)
+
 # PROCEDURE:
 1. Connections are given as per the circuit diagram
 2. + Vcc and - Vcc supply is given to the power supply terminal of the Op-Amp IC.
 3. By adjusting the amplitude and frequency knobs of the function generator, appropriate input voltage is applied to the inverting input terminal of the Op- Amp.
 4. The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
-RESULT:
-Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
-
 # INTEGRATOR GRAPH
+![WhatsApp Image 2025-11-16 at 11 27 05_d67f8f4f](https://github.com/user-attachments/assets/92899aff-a34c-4837-b0e3-fd13564e6d20)
+
 
 # DIFFERENTIATOR GRAPH
+![WhatsApp Image 2025-11-16 at 11 27 38_9f943361](https://github.com/user-attachments/assets/0bf41e6d-22d2-4479-82fb-088ef401e7b0)
+
 
 
 # RESULT:
-
+  Thus an integrator and differentiator using op-amp are designed and their performance was successully tested using op-amp IC 741.
 
 
 
